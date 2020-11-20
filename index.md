@@ -15,7 +15,7 @@ After my physics studies at Heidelberg University, Germany, I joined the Institu
 
 ### Contact and social
 
-* [E-mail](mailto:Johannes%20Bill<bill.scientific%20[AT]%20gmail%20DOT]%20com>)
+* [E-mail](mailto:Johannes%20Bill<bill.scientific%20[AT]%20gmail%20[DOT]%20com>)
 * [Twitter](https://twitter.com/BillScientific)
 * [Github](https://github.com/billscientific)
 
