@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Johannes Bill
 
-You can use the [editor on GitHub](https://github.com/billscientific/billscientific.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Postdoctoral researcher in computational neuroscience with [Jan Drugowitsch](https://drugowitschlab.hms.harvard.edu/people-0) and [Sam Gershman](http://gershmanlab.webfactional.com/people/sam.html).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. Find more info on the theme [here](https://github.com/pages-themes/minimal).
 
-### Markdown
+### Research interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am trying to discover the computational principles underlying information processing and learning in the brain. Bayesian inference and statistical learning theory provide me with the mathematical framework for addressing these questions. Concretely, I employ tractable behavioral experiments to reveal how humans and animals learn to cope with uncertain and ambiguous sensory evidence in their environment, and I explore in computational models how the required mathematical operations could be implemented in neuronal networks. My work further spawns engineering applications by developing operating principles for novel, brain-inspired computing architectures. My research is situated at the interface of cognitive science, neuroscience, machine learning and electrical engineering and aims to understand how the interactions of the brain's microscopic constituents give rise to the emerging macroscopic phenomena of intelligence.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Short bio
 
-- Bulleted
-- List
+After my physics studies at Heidelberg University, Germany, I joined the Institute for Theoretical Computer Science in Graz, Austria, for my doctoral studies with [Robert Legenstein](https://www.tugraz.at/institute/igi/people/prof-legenstein/). After my PhD, [Karlheinz Meier](https://www.kip.uni-heidelberg.de/vision/people/karlheinz/) gave me the opportunity to give a course on Brain-inspired Computing at the Physics Department in Heidelberg. In 2017, I joined the groups of [Jan Drugowitsch](https://drugowitschlab.hms.harvard.edu/people-0) (Neurobiology) and [Sam Gershman](http://gershmanlab.webfactional.com/people/sam.html) (Psychology) at Harvard University.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Publications
 
-[Link](url) and ![Image](src)
-```
+* List of publications: [Google scholar](https://scholar.google.com/citations?user=lWjexuQAAAAJ)
+* My PhD thesis: [Title] (pdf)
+* My Diploma thesis: [Title] (pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact and social
 
-### Jekyll Themes
+* [E-mail](mailto:Johannes%20Bill<bill.scientific%20[AT]%20gmail%20DOT]%20com>)
+* [Twitter](https://twitter.com/BillScientific)
+* [Github](https://github.com/billscientific)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/billscientific/billscientific.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
