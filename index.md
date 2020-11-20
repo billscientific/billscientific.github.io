@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### Research interests
 
-You can use the [editor on GitHub](https://github.com/billscientific/billscientific.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am trying to discover the computational principles of information processing and learning in the brain. Bayesian inference and statistical learning theory provide me with the mathematical framework for addressing these questions. I employ tractable behavioral experiments to reveal how humans and animals learn to cope with uncertain and ambiguous sensory evidence in their environment, and I explore in computational models how the required mathematical operations could be implemented in neuronal networks. My work further spawns engineering applications by developing operating principles for novel, brain-inspired computing architectures. My research is situated at the interface of cognitive science, neuroscience, machine learning and electrical engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Short bio
 
-### Markdown
+After my physics studies at Heidelberg University, Germany, I joined the Institute for Theoretical Computer Science in Graz, Austria, for my doctoral studies with [Robert Legenstein](https://www.tugraz.at/institute/igi/people/prof-legenstein/). After my PhD, [Karlheinz Meier](https://www.kip.uni-heidelberg.de/vision/people/karlheinz/) gave me the opportunity to give a course on Brain-inspired Computing for master students at the Physics Department in Heidelberg. In 2017, I joined the groups of [Jan Drugowitsch](https://drugowitschlab.hms.harvard.edu/people-0) (Neurobiology) and [Sam Gershman](http://gershmanlab.webfactional.com/people/sam.html) (Psychology) at Harvard University.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Publications
 
-# Header 1
-## Header 2
-### Header 3
+* List of publications: [Google scholar](https://scholar.google.com/citations?user=lWjexuQAAAAJ)
+* PhD thesis: [Probabilistic Models of Computation and Self-organization in Recurrent Networks of Spiking Neurons](assets/pdf/johannes_bill_dissertation.pdf) (pdf)
+* Diploma thesis: [Self-Stabilizing Network Architectures on a Neuromorphic Hardware System](assets/pdf/johannes_bill_diploma_thesis.pdf) (pdf)
 
-- Bulleted
-- List
+### Contact and social
 
-1. Numbered
-2. List
+* [E-mail](mailto:Johannes%20Bill<bill.scientific%20[AT]%20gmail%20[DOT]%20com>)
+* [Twitter](https://twitter.com/BillScientific)
+* [Github](https://github.com/billscientific)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/billscientific/billscientific.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

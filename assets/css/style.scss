@@ -1,0 +1,40 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* unvisited link */
+a:link {
+  color: #A41014;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #A41014;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #A41014;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: #A41014;
+  text-decoration: none;
+}
+
+section a:hover {
+  font-weight: normal;
+}
+
+section a:visited {
+  font-weight: normal;
+}
+
+p.view {
+    display: none;
+}
