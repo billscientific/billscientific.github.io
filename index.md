@@ -1,11 +1,6 @@
-## Johannes Bill
-
-Postdoctoral researcher in computational neuroscience with [Jan Drugowitsch](https://drugowitschlab.hms.harvard.edu/people-0) and [Sam Gershman](http://gershmanlab.webfactional.com/people/sam.html).
-
-
 ### Research interests
 
-I am trying to discover the computational principles underlying information processing and learning in the brain. Bayesian inference and statistical learning theory provide me with the mathematical framework for addressing these questions. Concretely, I employ tractable behavioral experiments to reveal how humans and animals learn to cope with uncertain and ambiguous sensory evidence in their environment, and I explore in computational models how the required mathematical operations could be implemented in neuronal networks. My work further spawns engineering applications by developing operating principles for novel, brain-inspired computing architectures. My research is situated at the interface of cognitive science, neuroscience, machine learning and electrical engineering and aims to understand how the interactions of the brain's microscopic constituents give rise to the emerging macroscopic phenomena of intelligence.
+I am trying to discover the computational principles of information processing and learning in the brain. Bayesian inference and statistical learning theory provide me with the mathematical framework for addressing these questions. Concretely, I employ tractable behavioral experiments to reveal how humans and animals learn to cope with uncertain and ambiguous sensory evidence in their environment, and I explore in computational models how the required mathematical operations could be implemented in neuronal networks. My work further spawns engineering applications by developing operating principles for novel, brain-inspired computing architectures. My research is situated at the interface of cognitive science, neuroscience, machine learning and electrical engineering and aims to understand how the interactions of the brain's microscopic constituents give rise to the emerging macroscopic phenomena of intelligence.
 
 
 ### Short bio
@@ -16,8 +11,8 @@ After my physics studies at Heidelberg University, Germany, I joined the Institu
 ### Publications
 
 * List of publications: [Google scholar](https://scholar.google.com/citations?user=lWjexuQAAAAJ)
-* My PhD thesis: [Title] (pdf)
-* My Diploma thesis: [Title] (pdf)
+* PhD thesis: [Probabilistic Models of Computation and Self-organization in Recurrent Networks of Spiking Neurons](assets/pdf/johannes_bill_dissertation.pdf) (pdf)
+* Diploma thesis: [Self-Stabilizing Network Architectures on a Neuromorphic Hardware System](assets/pdf/johannes_bill_diploma_thesis.pdf) (pdf)
 
 ### Contact and social
 
