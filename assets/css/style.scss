@@ -2,3 +2,31 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* unvisited link */
+a:link {
+  color: red;
+  font-style: normal;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+  font-style: normal;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+  font-style: normal;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+  font-style: normal;
+  text-decoration: none;
+}
