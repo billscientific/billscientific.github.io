@@ -1,7 +1,6 @@
 ### Research interests
 
-I am trying to discover the computational principles of information processing and learning in the brain. Bayesian inference and statistical learning theory provide me with the mathematical framework for addressing these questions. Concretely, I employ tractable behavioral experiments to reveal how humans and animals learn to cope with uncertain and ambiguous sensory evidence in their environment, and I explore in computational models how the required mathematical operations could be implemented in neuronal networks. My work further spawns engineering applications by developing operating principles for novel, brain-inspired computing architectures. My research is situated at the interface of cognitive science, neuroscience, machine learning and electrical engineering and aims to understand how the interactions of the brain's microscopic constituents give rise to the emerging macroscopic phenomena of intelligence.
-
+I am trying to discover the computational principles of information processing and learning in the brain. Bayesian inference and statistical learning theory provide me with the mathematical framework for addressing these questions. I employ tractable behavioral experiments to reveal how humans and animals learn to cope with uncertain and ambiguous sensory evidence in their environment, and I explore in computational models how the required mathematical operations could be implemented in neuronal networks. My work further spawns engineering applications by developing operating principles for novel, brain-inspired computing architectures. My research is situated at the interface of cognitive science, neuroscience, machine learning and electrical engineering.
 
 ### Short bio
 
