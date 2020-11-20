@@ -4,7 +4,7 @@ I am trying to discover the computational principles of information processing a
 
 ### Short bio
 
-After my physics studies at Heidelberg University, Germany, I joined the Institute for Theoretical Computer Science in Graz, Austria, for my doctoral studies with [Robert Legenstein](https://www.tugraz.at/institute/igi/people/prof-legenstein/). After my PhD, [Karlheinz Meier](https://www.kip.uni-heidelberg.de/vision/people/karlheinz/) gave me the opportunity to give a course on Brain-inspired Computing at the Physics Department in Heidelberg. In 2017, I joined the groups of [Jan Drugowitsch](https://drugowitschlab.hms.harvard.edu/people-0) (Neurobiology) and [Sam Gershman](http://gershmanlab.webfactional.com/people/sam.html) (Psychology) at Harvard University.
+After my physics studies at Heidelberg University, Germany, I joined the Institute for Theoretical Computer Science in Graz, Austria, for my doctoral studies with [Robert Legenstein](https://www.tugraz.at/institute/igi/people/prof-legenstein/). After my PhD, [Karlheinz Meier](https://www.kip.uni-heidelberg.de/vision/people/karlheinz/) gave me the opportunity to give a course on Brain-inspired Computing for master students at the Physics Department in Heidelberg. In 2017, I joined the groups of [Jan Drugowitsch](https://drugowitschlab.hms.harvard.edu/people-0) (Neurobiology) and [Sam Gershman](http://gershmanlab.webfactional.com/people/sam.html) (Psychology) at Harvard University.
 
 
 ### Publications
